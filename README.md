@@ -6,8 +6,8 @@ Laravel Framework Version 10.23.1
 ## Reference
 https://laravel.com/docs/10.x/passport#passport-or-sanctum
 
-##
-Copy .env file
+## ENV file
+Create .env file
 Copy and paste info from .env.example to .env
 
 ## Run
